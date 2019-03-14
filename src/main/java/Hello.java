@@ -10,6 +10,6 @@ public class Hello {
     }
 
     public static void whatDayIsIt() {
-        System.out.println("Almost Friday...");
+        System.out.println("It's Thursday");
     }
 }
